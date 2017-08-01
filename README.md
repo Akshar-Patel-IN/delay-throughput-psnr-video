@@ -3,7 +3,7 @@
 ### Delay, Throughput, and PSNR were calculated using NS-2 Simulator, Awk Script, and EvalVid Framework.
 
 *  Technologies: C, Awk
-*  Tools: NS-2, EvalVid, Geany, Ubuntu
+*  Tools and OS: NS-2, EvalVid, Geany, Ubuntu
 *  Platform: Command-line
 *  Lines of Code: 49
 *  Month-Year: NOV-2016
