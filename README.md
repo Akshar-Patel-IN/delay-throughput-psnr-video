@@ -1,6 +1,6 @@
 ###### :rocket: my first networking project :rocket:
-## Delay, Throughput, and PSNR Calculation
-### Delay, Throughput, and PSNR were calculated using NS-2 Simulator, Awk Script, and EvalVid Framework.
+## Throughput, Delay, and PSNR Calculation
+### Throughput, Delay, and PSNR were calculated using NS-2 Simulator, Awk Script, and EvalVid Framework.
 
 *  Technologies: C, Awk
 *  Tools and OS: NS-2, EvalVid, Geany, Ubuntu
