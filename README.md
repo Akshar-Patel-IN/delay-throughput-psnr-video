@@ -6,7 +6,7 @@
 *  Tools and OS: NS-2, EvalVid, Geany, Ubuntu
 *  Platform: Command-line
 *  Lines of Code: 49
-*  Month-Year: NOV-2016
+*  Duration: 1 Week (NOV-2016)
 
 ### PSNR of Frames
 
